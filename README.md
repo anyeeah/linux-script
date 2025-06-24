@@ -1,6 +1,6 @@
 # 리눅스 명령어 조사 (top, ps, jobs, kill)
 
----
+![Image](https://github.com/user-attachments/assets/6e60f46b-e959-48d2-8550-d4990255829a)
 
 ## 1. `top` 명령어
 
